@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993376128637",
+    "project_id": "mad-project-7d756",
+    "storage_bucket": "mad-project-7d756.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993376128637:android:d6875f67c2e5f16234ab14",
+        "android_client_info": {
+          "package_name": "com.project.intellifit_trainer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVuKQJj9aeK-d_YwefXLdkwN-QuHirQ-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
